@@ -42,7 +42,8 @@ The dataset includes information such as booking status, ride distance, vehicle 
 ## 🚀 How to Use
 1. Clone the repository to your local system:
    ```bash
-  https://github.com/siddheshpatere256/OLA-SQL-Project.git
+  https://github.com/siddheshpatere256/OLA-SQL-Project
+  
 2. Import the dataset into your SQL environment.
 3. Execute the SQL scripts to explore booking data and generate insights.
 4. Review the results and use them to optimize operations and customer experience.
